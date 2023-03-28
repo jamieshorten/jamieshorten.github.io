@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "My little place on the internet",
   title: "Jamie Shorten",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 3,
 };
 
