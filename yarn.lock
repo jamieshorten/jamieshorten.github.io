@@ -350,7 +350,7 @@
     undici "^5.22.1"
     whatwg-mimetype "^3.0.0"
 
-"@divriots/jampack@^0.33.0":
+"@divriots/jampack@^0.33.1":
   version "0.33.1"
   resolved "https://registry.yarnpkg.com/@divriots/jampack/-/jampack-0.33.1.tgz#dce85d6d9d4ae8abf70bbf544f82a3597f4d8eda"
   integrity sha512-Fa6dBAZnsZwDYj9YkZQMoP4Ma95saGJtSwPrd1KI5IrKvhgUL4SWB05K7KbV183wmuyPgSBxGxZVowcLko5Vfw==
