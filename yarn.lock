@@ -350,10 +350,10 @@
     undici "^5.22.1"
     whatwg-mimetype "^3.0.0"
 
-"@divriots/jampack@^0.33.0":
-  version "0.33.1"
-  resolved "https://registry.yarnpkg.com/@divriots/jampack/-/jampack-0.33.1.tgz#dce85d6d9d4ae8abf70bbf544f82a3597f4d8eda"
-  integrity sha512-Fa6dBAZnsZwDYj9YkZQMoP4Ma95saGJtSwPrd1KI5IrKvhgUL4SWB05K7KbV183wmuyPgSBxGxZVowcLko5Vfw==
+"@divriots/jampack@^0.34.0":
+  version "0.34.0"
+  resolved "https://registry.yarnpkg.com/@divriots/jampack/-/jampack-0.34.0.tgz#ae9f6f8947338cdc28ab9292cd795748adea94fb"
+  integrity sha512-cD+Li/X+EoqxDfmHaklFq/4RrNARIqeIYt4KDSbZja0w06XWWpYo8q4yLoAOUvIAF7+hKRGKXcQxA+4igOVy/g==
   dependencies:
     "@commander-js/extra-typings" "^12.0.0"
     "@divriots/cheerio" "1.0.0-rc.12"
